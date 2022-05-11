@@ -1,5 +1,6 @@
 
-#About#
+- About
+
 This project extract crypto data from `CoinMarketCap` and loaded the data into a text file
 
 - Requirements
@@ -17,3 +18,6 @@ This project extract crypto data from `CoinMarketCap` and loaded the data into a
         - Jupyter
         - pip-packages
     - Set envr as recommended
+
+
+Thanks to https://www.youtube.com/watch?v=bTQx5LzVumk for making this available.
