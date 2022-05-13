@@ -13,7 +13,7 @@ This project extract crypto data from `CoinMarketCap` and loaded the data into a
             - `jupyter` or `Google colab` - !pip install prettytable 
         - json
 
-- Running Juoyter notebook in VSCODE
+- Running Jupyter notebook in VSCODE
     - install the packages from Marketplace
         - Jupyter
         - pip-packages
