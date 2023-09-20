@@ -1,7 +1,7 @@
 
 - ---- About ---
 
-This project extract crypto data from `CoinMarketCap` and loaded the data into a text file
+This project extracts crypto data from `CoinMarketCap` and loaded the data into a text file
 
 - Requirements
     - CoinMarketCap `API`
@@ -18,6 +18,8 @@ This project extract crypto data from `CoinMarketCap` and loaded the data into a
         - Jupyter
         - pip-packages
     - Set envr as recommended
+
+ - Subsequently, I will be refactoring the code to feed in more parameters and visualize in Tableau.
 
 
 Thanks to https://www.youtube.com/watch?v=bTQx5LzVumk for making this available.
